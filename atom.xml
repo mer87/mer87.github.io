@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>front-end 블로그</description>
+    <link>
+    https://merry87.github.io</link>
+    
+      
+      <item>
+        <title>CSS 기초(1) - CSS 기본</title>
+        
+          <description>&lt;p&gt;이 글은 CSS basic입니다!&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 26 May 2021 01:40:00 +0900</pubDate>
+        <link>
+        https://merry87.github.io/css-basic</link>
+        <guid isPermaLink="true">https://merry87.github.io/css-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Javascript 강좌(2) - Javascript 제어문</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Javascript 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-basic&quot;&gt;Javascript 강좌(1) - Javascript 기초&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-control-statement&quot;&gt;Javascript 강좌(2) - Javascript 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Tue, 25 May 2021 21:40:00 +0900</pubDate>
+        <link>
+        https://merry87.github.io/javascript-control-statement</link>
+        <guid isPermaLink="true">https://merry87.github.io/javascript-control-statement</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Javascript 강좌(1) - Javascript 기초</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Javascript 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-basic&quot;&gt;Javascript 강좌(1) - Javascript 기초&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-control-statement&quot;&gt;Javascript 강좌(2) - Javascript 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Tue, 25 May 2021 01:40:00 +0900</pubDate>
+        <link>
+        https://merry87.github.io/javascript-basic</link>
+        <guid isPermaLink="true">https://merry87.github.io/javascript-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://merry87.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://merry87.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
