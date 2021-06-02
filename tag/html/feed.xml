@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="https://merry87.github.io/tag/html/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://merry87.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-06-02T12:22:35+09:00</updated>
-  <id>https://merry87.github.io/tag/html/feed.xml</id>
+  <link href="https://mer87.github.io/tag/html/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://mer87.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-06-02T14:07:45+09:00</updated>
+  <id>https://mer87.github.io/tag/html/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">HTML 강좌(2) - HTML 기초2</title>
-      <link href="https://merry87.github.io/html-basic2" rel="alternate" type="text/html" title="HTML 강좌(2) - HTML 기초2" />
+      <link href="https://mer87.github.io/html-basic2" rel="alternate" type="text/html" title="HTML 강좌(2) - HTML 기초2" />
       <published>2021-05-02T21:40:00+09:00</published>
       <updated>2021-05-02T21:40:00+09:00</updated>
-      <id>https://merry87.github.io/html-basic2</id>
-      <content type="html" xml:base="https://merry87.github.io/html-basic2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;HTML 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+      <id>https://mer87.github.io/html-basic2</id>
+      <content type="html" xml:base="https://mer87.github.io/html-basic2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;HTML 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./html-basic&quot;&gt;HTML 강좌(1) - HTML 기초&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./html-basic2&quot;&gt;HTML 강좌(2) - HTML 기초2&lt;/a&gt;&lt;/li&gt;
@@ -73,11 +73,11 @@
   
     <entry>
       <title type="html">HTML 기초(1) - HTML 기본</title>
-      <link href="https://merry87.github.io/html-basic" rel="alternate" type="text/html" title="HTML 기초(1) - HTML 기본" />
+      <link href="https://mer87.github.io/html-basic" rel="alternate" type="text/html" title="HTML 기초(1) - HTML 기본" />
       <published>2021-05-02T01:00:00+09:00</published>
       <updated>2021-05-02T01:00:00+09:00</updated>
-      <id>https://merry87.github.io/html-basic</id>
-      <content type="html" xml:base="https://merry87.github.io/html-basic">&lt;p&gt;이 글은 HTML basic입니다!&lt;/p&gt;</content>
+      <id>https://mer87.github.io/html-basic</id>
+      <content type="html" xml:base="https://mer87.github.io/html-basic">&lt;p&gt;이 글은 HTML basic입니다!&lt;/p&gt;</content>
 
       
       
