@@ -8,25 +8,6 @@
     
       
       <item>
-        <title>CSS 강좌(2) - CSS 기초2</title>
-        
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;CSS 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./css-basic&quot;&gt;CSS 강좌(1) - CSS 기초&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./css-basic2&quot;&gt;CSS 강좌(2) - CSS 기초2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        
-        <pubDate>Wed, 26 May 2021 21:40:00 +0900</pubDate>
-        <link>
-        https://merry87.github.io/css-basic2</link>
-        <guid isPermaLink="true">https://merry87.github.io/css-basic2</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>CSS 기초(1) - CSS 기본</title>
         
           <description>&lt;p&gt;이 글은 CSS basic입니다!&lt;/p&gt;
@@ -79,34 +60,16 @@
     
       
       <item>
-        <title>HTML 강좌(2) - HTML 기초2</title>
+        <title>Gettysburg Address</title>
         
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;HTML 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./html-basic&quot;&gt;HTML 강좌(1) - HTML 기초&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./html-basic2&quot;&gt;HTML 강좌(2) - HTML 기초2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sun, 02 May 2021 21:40:00 +0900</pubDate>
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
         <link>
-        https://merry87.github.io/html-basic2</link>
-        <guid isPermaLink="true">https://merry87.github.io/html-basic2</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>HTML 기초(1) - HTML 기본</title>
-        
-          <description>&lt;p&gt;이 글은 HTML basic입니다!&lt;/p&gt;
-</description>
-        
-        <pubDate>Sun, 02 May 2021 01:00:00 +0900</pubDate>
-        <link>
-        https://merry87.github.io/html-basic</link>
-        <guid isPermaLink="true">https://merry87.github.io/html-basic</guid>
+        https://merry87.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://merry87.github.io/gettysburg-address</guid>
       </item>
       
     
