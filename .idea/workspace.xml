@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944806a2-e1e0-4cf4-a24f-e26610ae8292" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author/Merry87/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/css-basic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-basic2.html" beforeDir="false" afterPath="$PROJECT_DIR$/css-basic2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/mer87/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/atom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-basic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-basic2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-basic2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript-basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-basic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript-control-statement.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-control-statement.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tag/css/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/css/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/css/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tag/html/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/html/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tag/javascript/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/javascript/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/javascript/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622603633568</updated>
-      <workItem from="1622603648246" duration="1508000" />
+      <workItem from="1622603648246" duration="3241000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1622604531758</created>
@@ -58,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622604531758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1622610627647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622610627647</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
