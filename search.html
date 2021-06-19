@@ -14,7 +14,7 @@
 
 
 
-    <title>All Tags</title>
+    <title>Search Result</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -53,19 +53,19 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="front-end를 준비하면서 공부한 내용들을 정리해봤습니다." />
     <link rel="shortcut icon" href="https://mer87.github.io/assets/built/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="https://mer87.github.io/author_archive" />
+    <link rel="canonical" href="https://mer87.github.io/search" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Basics of Front-End Development" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="All Tags" />
+    <meta property="og:title" content="Search Result" />
     <meta property="og:description" content="front-end를 준비하면서 공부한 내용들을 정리해봤습니다." />
-    <meta property="og:url" content="https://mer87.github.io/author_archive" />
+    <meta property="og:url" content="https://mer87.github.io/search" />
     <meta property="og:image" content="https://mer87.github.io/assets/built/images/cover-image.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="All Tags" />
+    <meta name="twitter:title" content="Search Result" />
     <meta name="twitter:description" content="front-end를 준비하면서 공부한 내용들을 정리해봤습니다." />
     <meta name="twitter:url" content="https://mer87.github.io/" />
     <meta name="twitter:image" content="https://mer87.github.io/assets/built/images/cover-image.jpg" />
@@ -85,7 +85,7 @@
         "name": "Basics of Front-End Development",
         "logo": "https://mer87.github.io/"
     },
-    "url": "https://mer87.github.io/author_archive",
+    "url": "https://mer87.github.io/search",
     "image": {
         "@type": "ImageObject",
         "url": "https://mer87.github.io/assets/built/images/cover-image.jpg",
@@ -94,7 +94,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://mer87.github.io/author_archive"
+        "@id": "https://mer87.github.io/search"
     },
     "description": "front-end를 준비하면서 공부한 내용들을 정리해봤습니다."
 }
@@ -109,7 +109,7 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="All Tags" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Search Result" href="/feed.xml" />
 
 
 </head>
@@ -171,74 +171,80 @@ into the {body} of the default.hbs template -->
         <article class="post-full  post page no-image">
 
             <header class="post-full-header">
-                <h1 class="post-full-title">All Tags</h1>
+                <h1 class="post-full-title">Search Result</h1>
             </header>
 
             
 
             <section class="post-full-content">
-                <div id="post-index" class="well article">
+                <form action="/search" method="get" hidden="hidden">
+    <label for="search-box"></label>
+    <input type="text" id="search-box" name="query">
+</form>
 
+<ul class="mylist" id="search-results"></ul>
 
-
-<ul class="entry-meta inline-list">
-  
+<script>
+    window.store = {
     
-  	<li><a href="#css" class="tag"><span class="term alltags">css</span> <span class="count alltags">2</span></a></li>
-  
+    "css-basic2": {
+        "title": "CSS 강좌(2) - CSS 기초2",
+            "author": "merry87",
+            "category": "",
+            "content": "CSS 강좌는 여러 절로 구성되어 있습니다.     CSS 강좌(1) - CSS 기초    CSS 강좌(2) - CSS 기초2이 글은 CSS 기초에 대한 내용을 담고있습니다.",
+        "url": "/css-basic2"
+    }
+    ,
     
-  	<li><a href="#html" class="tag"><span class="term alltags">html</span> <span class="count alltags">2</span></a></li>
-  
+    "css-basic": {
+        "title": "CSS 기초(1) - CSS 기본",
+            "author": "merry87",
+            "category": "",
+            "content": "이 글은 CSS basic입니다!",
+        "url": "/css-basic"
+    }
+    ,
     
-  	<li><a href="#javascript" class="tag"><span class="term alltags">javascript</span> <span class="count alltags">2</span></a></li>
-  
-</ul>
-
-
-
-<article>
-<h2 id="css" class="tag-heading">CSS</h2>
-<ul>
-
-<!-- <li class="entry-title"><a href="https://mer87.github.io/css-basic2" target="_blank" title="CSS 강좌(2) - CSS 기초2">CSS 강좌(2) - CSS 기초2</a></li> -->
-<li class="entry-title"><a href="/css-basic2" target="_blank" title="CSS 강좌(2) - CSS 기초2">CSS 강좌(2) - CSS 기초2</a></li>
-
-<!-- <li class="entry-title"><a href="https://mer87.github.io/css-basic" target="_blank" title="CSS 기초(1) - CSS 기본">CSS 기초(1) - CSS 기본</a></li> -->
-<li class="entry-title"><a href="/css-basic" target="_blank" title="CSS 기초(1) - CSS 기본">CSS 기초(1) - CSS 기본</a></li>
-
-</ul>
-</article><!-- /.hentry -->
-
-
-<article>
-<h2 id="html" class="tag-heading">HTML</h2>
-<ul>
-
-<!-- <li class="entry-title"><a href="https://mer87.github.io/html-basic2" target="_blank" title="HTML 강좌(2) - HTML 기초2">HTML 강좌(2) - HTML 기초2</a></li> -->
-<li class="entry-title"><a href="/html-basic2" target="_blank" title="HTML 강좌(2) - HTML 기초2">HTML 강좌(2) - HTML 기초2</a></li>
-
-<!-- <li class="entry-title"><a href="https://mer87.github.io/html-basic" target="_blank" title="HTML 기초(1) - HTML 기본">HTML 기초(1) - HTML 기본</a></li> -->
-<li class="entry-title"><a href="/html-basic" target="_blank" title="HTML 기초(1) - HTML 기본">HTML 기초(1) - HTML 기본</a></li>
-
-</ul>
-</article><!-- /.hentry -->
-
-
-<article>
-<h2 id="javascript" class="tag-heading">JAVASCRIPT</h2>
-<ul>
-
-<!-- <li class="entry-title"><a href="https://mer87.github.io/javascript-control-statement" target="_blank" title="Javascript 강좌(2) - Javascript 제어문">Javascript 강좌(2) - Javascript 제어문</a></li> -->
-<li class="entry-title"><a href="/javascript-control-statement" target="_blank" title="Javascript 강좌(2) - Javascript 제어문">Javascript 강좌(2) - Javascript 제어문</a></li>
-
-<!-- <li class="entry-title"><a href="https://mer87.github.io/javascript-basic" target="_blank" title="Javascript 강좌(1) - Javascript 기초">Javascript 강좌(1) - Javascript 기초</a></li> -->
-<li class="entry-title"><a href="/javascript-basic" target="_blank" title="Javascript 강좌(1) - Javascript 기초">Javascript 강좌(1) - Javascript 기초</a></li>
-
-</ul>
-</article><!-- /.hentry -->
-
-</div>
-
+    "javascript-control-statement": {
+        "title": "Javascript 강좌(2) - Javascript 제어문",
+            "author": "merry87",
+            "category": "",
+            "content": "Javascript 강좌는 여러 절로 구성되어 있습니다.     Javascript 강좌(1) - Javascript 기초    Javascript 강좌(2) - Javascript 제어문이 글은 Javascript 제어문에 대한 내용을 담고있습니다.",
+        "url": "/javascript-control-statement"
+    }
+    ,
+    
+    "javascript-basic": {
+        "title": "Javascript 강좌(1) - Javascript 기초",
+            "author": "merry87",
+            "category": "",
+            "content": "Javascript 강좌는 여러 절로 구성되어 있습니다.     Javascript 강좌(1) - Javascript 기초    Javascript 강좌(2) - Javascript 제어문이 글은 Javascript basic입니다!   function syntaxHighlight(code) {   var foo = 'Hello World';   var bar = 100;}",
+        "url": "/javascript-basic"
+    }
+    ,
+    
+    "html-basic2": {
+        "title": "HTML 강좌(2) - HTML 기초2",
+            "author": "merry87",
+            "category": "",
+            "content": "HTML 강좌는 여러 절로 구성되어 있습니다.     HTML 강좌(1) - HTML 기초    HTML 강좌(2) - HTML 기초2이 글은 HTML 기초에 대한 내용을 담고있습니다.",
+        "url": "/html-basic2"
+    }
+    ,
+    
+    "html-basic": {
+        "title": "HTML 기초(1) - HTML 기본",
+            "author": "merry87",
+            "category": "",
+            "content": "이 글은 HTML basic입니다!",
+        "url": "/html-basic"
+    }
+    
+    
+    };
+</script>
+<script src="assets/js/lunr.js"></script>
+<script src="assets/js/search.js"></script>
             </section>
 
         </article>

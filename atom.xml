@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" atom:feed/atom:link[@rel="self"]<!--xmlns:atom="http://www.w3.org/2005/Atom"-->>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
     <description>front-end를 준비하면서 공부한 내용들을 정리해봤습니다.</description>
